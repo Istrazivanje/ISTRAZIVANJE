@@ -100,7 +100,7 @@
 <body>
     <div id="container">
         <h1>Dobrodošli u istraživanje o Determinantama međugrupnih odnosa Bošnjaka i Srba.</h1>
-        <p>Ovo istraživanje provodi se isključivo među Bošnjacima i Srbima, kako bismo bolje razumjeli vaše stavove, percepcije i iskustva vezana uz odnose između vaših dviju zajednica. Ako se identificirate i izjašnjavate kao Bošnjak ili Srbin, pozivamo vas da sudjelujete i podijelite svoje stavove i iskustva, za ostale (ako niste Bošnjak ili Srbin) ovo istraživanje nije namijenjeno.Molimo vas da odaberete svoju etničku pripadnost kako biste nastavili sa istraživanjem (u nastavku ćete dobiti detaljne upute).</p>
+        <p>Ovo istraživanje provodi se isključivo među Bošnjacima i Srbima, kako bismo bolje razumjeli vaše stavove, percepcije i iskustva vezana uz odnose između vaših dviju zajednica. Ako se identificirate i izjašnjavate kao Bošnjak ili Srbin, pozivamo vas da sudjelujete i podijelite svoje stavove i iskustva, za ostale (ako niste Bošnjak ili Srbin) ovo istraživanje nije namijenjeno. Molimo vas da odaberete svoju etničku pripadnost kako biste nastavili sa istraživanjem (u nastavku ćete dobiti detaljne upute).</p>
         <div class="radio-group">
             <label>
                 <input type="radio" name="etnicnost" value="bosnjak">
